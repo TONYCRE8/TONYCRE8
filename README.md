@@ -1,4 +1,11 @@
 ### Hi there 👋
+# I'm Tony Ingall!
+
+I'm a front-end developer exploring different technologies and avenues to creatively express myself.
+
+### Here's a few things I've done up until now..
+- [TONYCRE8 Portfolio](https://github.com/TonyIngall/tonycre8-portfolio): Exactly what it sounds like, my digital portfolio!
+- [CRE8-ANIMATION](https://github.com/TonyIngall/cre8-animation): A css and React library that contains styled, animated components.
 
 <!--
 **TonyIngall/TonyIngall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
