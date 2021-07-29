@@ -1,8 +1,7 @@
 # I'm Tony Ingall! 👋
 ![Git Banner](https://i.imgur.com/1swgnxi.png)
 ### Here's a few things I've done up until now..
-- [TONYCRE8 Portfolio](https://github.com/TonyIngall/tonycre8-portfolio): Exactly what it sounds like, my digital portfolio!
-- [CRE8-ANIMATION](https://github.com/TonyIngall/cre8-animation): A css and React library that contains styled, animated components.
+- [TONYCRE8 Portfolio](https://github.com/TONYCRE8/motion-designer-portfolio-frontend): Exactly what it sounds like, my digital portfolio!
 
 ### I'm constantly blogging too!
 Every week, I try to write a blog article on technical topics and post them on [my website](https://tonycre8.co.uk/blog). Whether they be my explorations of different technologies, or me demonstrating the usage of said technologies through the use of tutorials.
