@@ -1,10 +1,11 @@
 # I'm Tony Ingall! 👋
 
-### Here's a few things I've done up until now..
+<!-- ### Here's a few things I've done up until now..
 - [TONYCRE8 Portfolio](https://github.com/TONYCRE8/motion-designer-portfolio-frontend): Exactly what it sounds like, my digital portfolio!
 
 ### I'm constantly blogging too!
 Every week, I try to write a blog article on technical topics and post them on [my website](https://tonycre8.co.uk/#/blog). Whether they be my explorations of different technologies, or me demonstrating the usage of said technologies through the use of tutorials.
+-->
 
 <!--
 **TonyIngall/TonyIngall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
